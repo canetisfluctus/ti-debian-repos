@@ -1,3 +1,9 @@
+ti-linux-kernel (6.1.83-rt28-k3-var1+d22356968f7a84d7d61b36958a18d95f33adc58d-1) UNRELEASED; urgency=medium
+
+  * Build based on commit d22356968f7a84d7d61b36958a18d95f33adc58d
+
+ -- N. Ege Acikgöz <egeacikgoz@gmail.com>  Fri, 28 Nov 2025 14:47:51 +0000
+
 ti-linux-kernel (6.1.83-k3-var3+ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a-1) UNRELEASED; urgency=medium
 
   * Build based on commit ef02b21f5d6fe1b1cd5678b0ad50f442a0fe8c8a
